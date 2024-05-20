@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Portada-rodrigo](https://github.com/RodrigoOsor1o/RodrigoOsor1o/assets/168252349/dfcaddc1-ade4-4eac-92b0-8ff50b8aeb4e)
 
 <!--
 **RodrigoOsor1o/RodrigoOsor1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
