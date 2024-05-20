@@ -1,32 +1,22 @@
 ### Hi there 👋
 ![Portada-rodrigo](https://github.com/RodrigoOsor1o/RodrigoOsor1o/assets/168252349/dfcaddc1-ade4-4eac-92b0-8ff50b8aeb4e)
 
+```js
 import SoftwareDeveloper from 'thompsonemerson';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+class Bio extends Front-end jr {
+  name     = 'Rodrigo Osorio';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  company  = 'Aglaya Innovation | Remote';
+  location = 'Tabasco';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+class Skills extends Front-end jr {
+  languages  = ['JavaScript', 'CSS' , 'HTML'];
+  tecnology  = ['Git', 'GitHub', 'Figma', 'Adobe Illustrator', 'CapCut'];
+  soft skills = ['teamwork', 'Effective communication', 'Autodidac', 'Responsible', 'Committed', 'Leadership'];
 }
+```
 
-<!--
-**RodrigoOsor1o/RodrigoOsor1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
