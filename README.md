@@ -14,7 +14,7 @@ class Bio extends Front-end jr {
 class Skills extends Front-end jr {
   languages  = ['JavaScript', 'CSS' , 'HTML'];
   tecnology  = ['Git', 'GitHub', 'Figma', 'Adobe Illustrator', 'CapCut'];
-  soft skills = ['teamwork', 'Effective communication', 'Autodidac', 'Responsible', 'Committed', 'Leadership'];
+  soft-skills = ['teamwork', 'Effective communication', 'Autodidac', 'Responsible', 'Committed', 'Leadership'];
 }
 ```
 
